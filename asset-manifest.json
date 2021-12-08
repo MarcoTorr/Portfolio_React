@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React/static/css/main.04c01f08.chunk.css",
+    "main.js": "/Portfolio_React/static/js/main.992a61ac.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.992a61ac.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.447cce12.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.447cce12.js.map",
+    "static/css/2.383c0125.chunk.css": "/Portfolio_React/static/css/2.383c0125.chunk.css",
+    "static/js/2.5dca59c4.chunk.js": "/Portfolio_React/static/js/2.5dca59c4.chunk.js",
+    "static/js/2.5dca59c4.chunk.js.map": "/Portfolio_React/static/js/2.5dca59c4.chunk.js.map",
+    "static/js/3.7cc2abba.chunk.js": "/Portfolio_React/static/js/3.7cc2abba.chunk.js",
+    "static/js/3.7cc2abba.chunk.js.map": "/Portfolio_React/static/js/3.7cc2abba.chunk.js.map",
+    "index.html": "/Portfolio_React/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Portfolio_React/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.04c01f08.chunk.css.map": "/Portfolio_React/static/css/main.04c01f08.chunk.css.map",
+    "static/js/2.5dca59c4.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.5dca59c4.chunk.js.LICENSE.txt",
+    "static/media/Consepril.5e256141.png": "/Portfolio_React/static/media/Consepril.5e256141.png",
+    "static/media/DaySchedule.e8ecbf7d.png": "/Portfolio_React/static/media/DaySchedule.e8ecbf7d.png",
+    "static/media/Ecommerce.0ea27ff7.png": "/Portfolio_React/static/media/Ecommerce.0ea27ff7.png",
+    "static/media/HoriseonWebsite.9a47bac5.png": "/Portfolio_React/static/media/HoriseonWebsite.9a47bac5.png",
+    "static/media/MarcoTorresCV.3c8cbed2.pdf": "/Portfolio_React/static/media/MarcoTorresCV.3c8cbed2.pdf",
+    "static/media/NoteTaker.f6905c55.png": "/Portfolio_React/static/media/NoteTaker.f6905c55.png",
+    "static/media/ParotaDelCarmen.89156ec1.png": "/Portfolio_React/static/media/ParotaDelCarmen.89156ec1.png",
+    "static/media/PassGen.486afad9.png": "/Portfolio_React/static/media/PassGen.486afad9.png",
+    "static/media/ProfPic.2e3d3813.jpg": "/Portfolio_React/static/media/ProfPic.2e3d3813.jpg",
+    "static/media/Quiz.bf7966cf.png": "/Portfolio_React/static/media/Quiz.bf7966cf.png",
+    "static/media/WeatherDash.91c96de4.png": "/Portfolio_React/static/media/WeatherDash.91c96de4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.447cce12.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.5dca59c4.chunk.js",
+    "static/css/main.04c01f08.chunk.css",
+    "static/js/main.992a61ac.chunk.js"
+  ]
+}
