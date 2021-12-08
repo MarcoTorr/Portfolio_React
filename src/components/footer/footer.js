@@ -17,7 +17,7 @@ function Footer() {
     color: rgb(65, 15, 15);`
 return(
     <div>
-    <Card.Footer style={{background:'rgb(32, 37, 41)'}}>
+    <Card.Footer style={{background:'rgb(32, 37, 41)',bottom:'0',position: "fixed",width: "100%",}}>
         <ul style={{marginLeft:'40%'}}>
             <LiBlock>
                     <a href='https://github.com/MarcoTorr'><i><FaGithubSquare/></i>

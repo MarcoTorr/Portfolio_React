@@ -18,7 +18,7 @@ return(
     <section>
         <div style={{height:'30px'}}></div>
         <h1 style={{textAlign:'center'}}>Projects</h1>
-        <div style={{height:'40px'}}></div>
+        <div style={{height:'20px'}}></div>
         <Card.Body>
     <Carousel>
     <Carousel.Item>
@@ -197,6 +197,7 @@ return(
     </Carousel.Item>
   </Carousel>
   </Card.Body>
+  <div style={{height:'80px'}}></div>
   </section>
 )
 }
