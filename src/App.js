@@ -18,7 +18,7 @@ function App() {
       <Nav />
       <div className="container">
         <Routes>
-        <Route path="/Portfolio_React" element={<Aboutme />} />
+        <Route path="/Portfolio_React/" element={<Aboutme />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
